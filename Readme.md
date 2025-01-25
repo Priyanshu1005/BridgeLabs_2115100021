@@ -7,3 +7,5 @@
 22 january 2025 - 12 problems of level 2 solved and studied keyword,static variable and typeconversion.
 
 23 january 2025 - 36 Level 1,2,3 control flow problem solved and studied control flow.
+
+25 january 2025 - 20 problems of level 1 and level 2 solved of array
