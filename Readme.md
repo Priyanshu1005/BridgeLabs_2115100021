@@ -9,3 +9,6 @@
 23 january 2025 - 36 Level 1,2,3 control flow problem solved and studied control flow.
 
 25 january 2025 - 20 problems of level 1 and level 2 solved of array
+
+27 january 2025 - level1  12 problems solved of methods.
+
