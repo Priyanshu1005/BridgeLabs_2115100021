@@ -15,3 +15,5 @@
 28 january 2025 - 25questions of level 2 and level3 method practice problem solved. 
 
 29 january 2025 - Inbuilt functions on TIME and DATE & other extra fuctions practice problem , String practice problem solved.
+
+30 january 2025 - Visual Studio installed and connected with github and learned inbuilt functions of string .
