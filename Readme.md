@@ -22,4 +22,7 @@
 
 01 february 2025 - concepts of OOPS and String are revised.
 
-2 febraury 2025 - Constructor , Instance vs. Class Variables and Methods problems solved and this keyword topic learned.
+02 febraury 2025 - Constructor , Instance vs. Class Variables and Methods problems solved and this keyword topic learned.
+
+03 february 2025 - task1:- create 1 instance with add method and 1 abstract class with subtract method and inherit these two in single class and call them from main. 
+task2:- create a bank application using OOPS concepts.
