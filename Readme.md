@@ -26,3 +26,8 @@
 
 03 february 2025 - task1:- create 1 instance with add method and 1 abstract class with subtract method and inherit these two in single class and call them from main. 
 task2:- create a bank application using OOPS concepts.
+
+04 february 2025 - 3 february 2025 - this, sealed, static key words and is operator studied and done practice problems.
+
+05 february 2025 - OOPS design principles done and 8 problems based on it are completed
+
