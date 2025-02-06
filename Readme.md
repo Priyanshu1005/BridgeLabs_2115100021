@@ -31,3 +31,5 @@ task2:- create a bank application using OOPS concepts.
 
 05 february 2025 - OOPS design principles done and 8 problems based on it are completed
 
+06 february 2025 - Class object and sequence diagram are studied
+
