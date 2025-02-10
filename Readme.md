@@ -33,4 +33,6 @@ task2:- create a bank application using OOPS concepts.
 
 06 february 2025 - Class object and sequence diagram are studied
 
-07 february 2025 - 11 problems based on inheritance are solved.
+08 february 2025 - 11 problems based on inheritance are solved.
+
+10 february 2025 - Submission of Encapsulation, Polymorphism, Interface and Abstract Class problems solved
