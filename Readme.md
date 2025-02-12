@@ -38,3 +38,5 @@ task2:- create a bank application using OOPS concepts.
 10 february 2025 - Submission of Encapsulation, Polymorphism, Interface and Abstract Class problems solved
 
 11 february 2025 - 6 problems based on linked list are done.
+
+12 february 2025 - 3 problems baesd on linked list are solved.
