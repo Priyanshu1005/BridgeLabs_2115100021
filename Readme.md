@@ -42,3 +42,5 @@ task2:- create a bank application using OOPS concepts.
 12 february 2025 - 3 problems baesd on linked list are solved.
 
 13 february 2025 - 10 problems based on stack, queue, and hashmap are solved.
+
+14 february 2025 - 7 problems based on sorting are done.
