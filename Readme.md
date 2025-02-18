@@ -48,3 +48,6 @@ task2:- create a bank application using OOPS concepts.
 15 february 2025 - 16 problems based on Linear Search, Bianry Search,StringBuilder,Streamreader and StreamWriter are solved.
 
 17 february 2025 - 5 problems based on time complexity are solved.
+
+18 february 2025 - 5 problems based on Generics are done.
+
