@@ -58,3 +58,5 @@ task2:- create a bank application using OOPS concepts.
 21 february 2025 - 10 problems based on file handling are done.
 
 22 february 2025 - 15 Practice Problems based on REGEX and 13 Problems bsed on Testing Solved and topics studied about testing & regular expression "
+
+24 february 2025 - Problems based on Reflection and Annotation are done.
