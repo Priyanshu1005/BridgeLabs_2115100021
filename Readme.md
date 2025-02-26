@@ -63,3 +63,5 @@ task2:- create a bank application using OOPS concepts.
 
 25 february 2025 - 15 problems based on CSV Data handling are solved.
 
+26 february 2025 - problems based on JSON Data are solved.
+
