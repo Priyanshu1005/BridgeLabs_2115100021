@@ -1,0 +1,15 @@
+D:\Capgemini Training\BusinessLayerV2\bin\Debug\net6.0\BusinessLayerV2.deps.json
+D:\Capgemini Training\BusinessLayerV2\bin\Debug\net6.0\BusinessLayerV2.dll
+D:\Capgemini Training\BusinessLayerV2\bin\Debug\net6.0\BusinessLayerV2.pdb
+D:\Capgemini Training\BusinessLayerV2\obj\Debug\net6.0\BusinessLayerV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\BusinessLayerV2\obj\Debug\net6.0\BusinessLayerV2.AssemblyInfoInputs.cache
+D:\Capgemini Training\BusinessLayerV2\obj\Debug\net6.0\BusinessLayerV2.AssemblyInfo.cs
+D:\Capgemini Training\BusinessLayerV2\obj\Debug\net6.0\BusinessLayerV2.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\BusinessLayerV2\obj\Debug\net6.0\BusinessLayerV2.dll
+D:\Capgemini Training\BusinessLayerV2\obj\Debug\net6.0\refint\BusinessLayerV2.dll
+D:\Capgemini Training\BusinessLayerV2\obj\Debug\net6.0\BusinessLayerV2.pdb
+D:\Capgemini Training\BusinessLayerV2\obj\Debug\net6.0\ref\BusinessLayerV2.dll
+D:\Capgemini Training\BusinessLayerV2\bin\Debug\net6.0\RepositoryLayerV2.dll
+D:\Capgemini Training\BusinessLayerV2\bin\Debug\net6.0\RepositoryLayerV2.pdb
+D:\Capgemini Training\BusinessLayerV2\obj\Debug\net6.0\BusinessLayerV2.csproj.AssemblyReference.cache
+D:\Capgemini Training\BusinessLayerV2\obj\Debug\net6.0\Business.9C978471.Up2Date

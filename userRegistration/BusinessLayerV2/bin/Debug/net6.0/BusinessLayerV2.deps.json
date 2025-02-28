@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BusinessLayerV2/1.0.0": {
+        "dependencies": {
+          "RepositoryLayerV2": "1.0.0"
+        },
+        "runtime": {
+          "BusinessLayerV2.dll": {}
+        }
+      },
+      "RepositoryLayerV2/1.0.0": {
+        "runtime": {
+          "RepositoryLayerV2.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BusinessLayerV2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RepositoryLayerV2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

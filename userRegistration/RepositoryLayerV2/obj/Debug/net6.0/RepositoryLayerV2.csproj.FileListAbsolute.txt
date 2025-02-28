@@ -1,0 +1,11 @@
+D:\Capgemini Training\RepositoryLayerV2\bin\Debug\net6.0\RepositoryLayerV2.deps.json
+D:\Capgemini Training\RepositoryLayerV2\bin\Debug\net6.0\RepositoryLayerV2.dll
+D:\Capgemini Training\RepositoryLayerV2\bin\Debug\net6.0\RepositoryLayerV2.pdb
+D:\Capgemini Training\RepositoryLayerV2\obj\Debug\net6.0\RepositoryLayerV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\RepositoryLayerV2\obj\Debug\net6.0\RepositoryLayerV2.AssemblyInfoInputs.cache
+D:\Capgemini Training\RepositoryLayerV2\obj\Debug\net6.0\RepositoryLayerV2.AssemblyInfo.cs
+D:\Capgemini Training\RepositoryLayerV2\obj\Debug\net6.0\RepositoryLayerV2.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\RepositoryLayerV2\obj\Debug\net6.0\RepositoryLayerV2.dll
+D:\Capgemini Training\RepositoryLayerV2\obj\Debug\net6.0\refint\RepositoryLayerV2.dll
+D:\Capgemini Training\RepositoryLayerV2\obj\Debug\net6.0\RepositoryLayerV2.pdb
+D:\Capgemini Training\RepositoryLayerV2\obj\Debug\net6.0\ref\RepositoryLayerV2.dll

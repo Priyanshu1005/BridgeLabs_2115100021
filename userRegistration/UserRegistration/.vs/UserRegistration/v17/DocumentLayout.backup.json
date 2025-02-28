@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini Training\\UserRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6296D141-9E31-4F28-AE35-0A17B4F4BF62}|..\\BusinessLayerV2\\BusinessLayerV2.csproj|d:\\capgemini training\\businesslayerv2\\service\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD89A3F-56B3-4847-8173-1322DECD1B57}|..\\RepositoryLayerV2\\RepositoryLayerV2.csproj|d:\\capgemini training\\repositorylayerv2\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AC89EB-764A-41DE-B377-D57AE9FBC042}|UserRegistration.csproj|d:\\capgemini training\\userregistration\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AC89EB-764A-41DE-B377-D57AE9FBC042}|UserRegistration.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AC89EB-764A-41DE-B377-D57AE9FBC042}|UserRegistration.csproj|d:\\capgemini training\\userregistration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AC89EB-764A-41DE-B377-D57AE9FBC042}|UserRegistration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AC89EB-764A-41DE-B377-D57AE9FBC042}|UserRegistration.csproj|d:\\capgemini training\\userregistration\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8AC89EB-764A-41DE-B377-D57AE9FBC042}|UserRegistration.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegistrationRL.cs",
+              "DocumentMoniker": "D:\\Capgemini Training\\RepositoryLayerV2\\service\\UserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayerV2\\service\\UserRegistrationRL.cs",
+              "ToolTip": "D:\\Capgemini Training\\RepositoryLayerV2\\service\\UserRegistrationRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayerV2\\service\\UserRegistrationRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:51:51.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Capgemini Training\\UserRegistration\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Capgemini Training\\UserRegistration\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T15:04:27.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini Training\\UserRegistration\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini Training\\UserRegistration\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:02:50.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRegistrationBL.cs",
+              "DocumentMoniker": "D:\\Capgemini Training\\BusinessLayerV2\\service\\UserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayerV2\\service\\UserRegistrationBL.cs",
+              "ToolTip": "D:\\Capgemini Training\\BusinessLayerV2\\service\\UserRegistrationBL.cs",
+              "RelativeToolTip": "..\\BusinessLayerV2\\service\\UserRegistrationBL.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:54:03.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "D:\\Capgemini Training\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
+              "ToolTip": "D:\\Capgemini Training\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserRegistrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:46:42.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
