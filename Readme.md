@@ -66,3 +66,7 @@ task2:- create a bank application using OOPS concepts.
 26 february 2025 - problems based on JSON Data are solved.
 
 28 february 2025 - user registration system created successfully using asp.net core web api.
+
+01 March 2025 - UserRegistration WebApi Checked using PostMan with 4 input fields and studies about layers i.e model , Business , Repository && submitted Assignment
+
+03 March 2025 - Submission of Swagger and Nlog.
