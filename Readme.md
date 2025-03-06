@@ -70,3 +70,5 @@ task2:- create a bank application using OOPS concepts.
 01 March 2025 - UserRegistration WebApi Checked using PostMan with 4 input fields and studies about layers i.e model , Business , Repository && submitted Assignment
 
 03 March 2025 - Submission of Swagger and Nlog.
+
+06 march 2025 - redis implementation
